@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref-list xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ref id="0-DERRIDA1967">
+    <element-citation publication-type="book-chapter">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Derrida</surname>
+          <given-names>J.</given-names>
+        </name>
+      </person-group>
+      <source>La structure, le signe et le jeu dans le discours des sciences humaines</source>
+      <publisher-name>Éditions du Seuil</publisher-name>
+      <publisher-loc>Francia</publisher-loc>
+      <year>1967</year>
+      <volume>23</volume>
+      <issue>246</issue>
+      <fpage>409</fpage>
+      <lpage>429</lpage>
+    </element-citation>
+  </ref>
+  <ref id="2553-BARTHES1968">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Barthes</surname>
+          <given-names>R.</given-names>
+        </name>
+      </person-group>
+      <article-title>La mort de l'auteur</article-title>
+      <source>Manteia</source>
+      <year>1968</year>
+      <issue>5</issue>
+      <fpage>12</fpage>
+      <lpage>17</lpage>
+      <pub-id pub-id-type="doi">10.3917/lignes.003.011</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2554-SANTOS2002">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Santos</surname>
+          <given-names>B. de S</given-names>
+        </name>
+      </person-group>
+      <article-title>Para uma sociologia das ausências e uma sociologia das emergências</article-title>
+      <source>Revista Crítica de Ciências Sociais</source>
+      <year>2002</year>
+      <issue>63</issue>
+      <fpage>237</fpage>
+      <lpage>280</lpage>
+      <pub-id pub-id-type="doi">10.4000/rccs.1285</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2555-GARCIACANCLINI1990">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>García Canclini</surname>
+          <given-names>N</given-names>
+        </name>
+      </person-group>
+      <article-title>Culturas híbridas y estrategias comunicacionales</article-title>
+      <year>1990</year>
+      <volume>3</volume>
+      <issue>5</issue>
+      <fpage>109</fpage>
+      <lpage>128</lpage>
+    </element-citation>
+  </ref>
+  <ref id="2556-BOURDIEU1979">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Bourdieu</surname>
+          <given-names>P</given-names>
+        </name>
+      </person-group>
+      <article-title>Les trois états du capital culturel</article-title>
+      <source>Actes de la recherche en sciences sociales</source>
+      <year>1979</year>
+      <volume>30</volume>
+      <issue>1</issue>
+      <fpage>3</fpage>
+      <lpage>6</lpage>
+      <pub-id pub-id-type="doi">10.3406/arss.1979.2654</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2557-SARLO1994">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Sarlo</surname>
+          <given-names>B</given-names>
+        </name>
+      </person-group>
+      <article-title>Intelectuales y revistas: razones de una práctica</article-title>
+      <source>América, Cahiers du CRICCAL</source>
+      <year>1992</year>
+      <issue>9</issue>
+      <fpage>9</fpage>
+      <lpage>16</lpage>
+      <pub-id pub-id-type="doi">10.3406/ameri.1992.1047</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2558-CANDIDO1972">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Candido</surname>
+          <given-names>A</given-names>
+        </name>
+      </person-group>
+      <article-title>A literatura e a formação do homem</article-title>
+      <source>Ciência e Cultura</source>
+      <year>1972</year>
+      <volume>24</volume>
+      <issue>9</issue>
+      <fpage>803</fpage>
+      <lpage>809</lpage>
+    </element-citation>
+  </ref>
+  <ref id="2559-CHARTIER1992">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Chartier</surname>
+          <given-names>R</given-names>
+        </name>
+      </person-group>
+      <article-title>Texts, printing, readings</article-title>
+      <source>Journal of the History of Ideas</source>
+      <year>1992</year>
+      <volume>53</volume>
+      <issue>1</issue>
+      <fpage>133</fpage>
+      <lpage>152</lpage>
+      <pub-id pub-id-type="doi">10.2307/2709911</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2560-ORTIZ1988">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Ortiz</surname>
+          <given-names>R.</given-names>
+        </name>
+      </person-group>
+      <source>Cultura brasileira e identidade nacional</source>
+      <publisher-name>Brasiliense</publisher-name>
+      <year>1985</year>
+    </element-citation>
+  </ref>
+  <ref id="2561-FREIRE1970">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Freire</surname>
+          <given-names>P.</given-names>
+        </name>
+      </person-group>
+      <source>Pedagogía del oprimido</source>
+      <publisher-name>Tierra Nueva</publisher-name>
+      <publisher-loc>Montevideo, Uruguay</publisher-loc>
+      <year>1970</year>
+    </element-citation>
+  </ref>
+  <ref id="2562-WARSCHAUER2004">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Warschauer</surname>
+          <given-names>M</given-names>
+        </name>
+      </person-group>
+      <source>Technology and Social Inclusion: Rethinking the Digital Divide</source>
+      <publisher-name>The MIT Pres</publisher-name>
+      <year>2004</year>
+    </element-citation>
+  </ref>
+  <ref id="2563-VANDIJK2020">
+    <element-citation publication-type="book">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>J. A. G. M</given-names>
+        </name>
+      </person-group>
+      <source>The Digital Divide</source>
+      <publisher-name>Polity Pres</publisher-name>
+      <year>2020</year>
+    </element-citation>
+  </ref>
+  <ref id="2564-VANDEURSEN2019">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>van Deursen</surname>
+          <given-names>A. J. A. M</given-names>
+        </name>
+        <name>
+          <surname>van Dijk</surname>
+          <given-names>J. A. G.</given-names>
+        </name>
+      </person-group>
+      <article-title>). The First-Level Digital Divide Shifts from Inequalities in Physical Access to Inequalities in Material Access</article-title>
+      <source>New Media and Societ</source>
+      <year>2019</year>
+      <volume>21</volume>
+      <issue>2</issue>
+      <pub-id pub-id-type="doi">10.1177/1461444817715282</pub-id>
+    </element-citation>
+  </ref>
+  <ref id="2565-HARGITTAI2002">
+    <element-citation publication-type="journal">
+      <person-group person-group-type="author">
+        <name>
+          <surname>Hargittai</surname>
+          <given-names>E.</given-names>
+        </name>
+      </person-group>
+      <article-title>Second-Level Digital Divide: Differences in People's Online Skills. *First Monday</article-title>
+      <year>2002</year>
+      <volume>7</volume>
+      <issue>4</issue>
+      <pub-id pub-id-type="doi">10.5210/fm.v7i4.942</pub-id>
+    </element-citation>
+  </ref>
+</ref-list>

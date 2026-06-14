@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-id journal-id-type="publisher-id">2250-4060</journal-id>
+    <journal-title-group>
+      <journal-title>Revista Latinoamericàna de nuevas ideas</journal-title>
+    </journal-title-group>
+    <issn pub-type="epub">2250-4060</issn>
+    <publisher>
+      <publisher-name>Universidad de Buenos Aires</publisher-name>
+      <publisher-loc>Ciudad Autònoma de Buenos Aires, Argentina</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a1">
+        <name>
+          <surname>Petruza</surname>
+          <given-names>Juan Carlos</given-names>
+        </name>
+        <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-6592-8510</contrib-id>
+        <aff>
+          <institution>Universidad Nacional de La Matanza</institution>,
+          <city>Buenos Aires</city>,
+          <country>Argentina</country>
+        </aff>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>01</month>
+      <year>2026</year>
+    </pub-date>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
