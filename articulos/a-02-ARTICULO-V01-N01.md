@@ -3,7 +3,7 @@
 
 La expansión del acceso a Internet en América Latina durante las últimas dos décadas ha sido notable en términos cuantitativos, pero insuficiente en su capacidad de reducir las desigualdades estructurales de la región. Los debates iniciales sobre la brecha digital se centraron en la dimensión del acceso físico ---la disponibilidad de dispositivos y conectividad---, pero la investigación posterior demostró que las disparidades más significativas se sitúan en las competencias, los usos y los resultados que las personas obtienen de su interacción con las tecnologías [@2565-HARGITTAI2002; @2562-WARSCHAUER2004].
 
-Este desplazamiento conceptual, que van Dijk (2020) sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
+Este desplazamiento conceptual, que van Dijk [-@2563-VANDIJK2020] sistematizó en un modelo de cuatro niveles (motivacional, material, de habilidades y de resultados), resulta particularmente relevante para analizar la educación superior. Las universidades públicas latinoamericanas, que atienden a una población estudiantil socialmente heterogénea, se vieron obligadas a adoptar modalidades de enseñanza mediadas por tecnología de manera masiva y abrupta a partir de 2020. Sin embargo, la transición no operó en el vacío: los estudiantes llegaron a ese escenario con dotaciones muy disímiles de recursos digitales.
 
 El presente estudio analiza la relación entre las condiciones de acceso digital de los estudiantes ---entendidas en sentido amplio, más allá de la mera conectividad--- y su rendimiento académico durante el período 2020-2022 en dos universidades públicas: la Universidad de Buenos Aires (UBA) y la Universidad Nacional Autónoma de México (UNAM). La selección de estos casos responde a su carácter de megauniversidades con poblaciones estudiantiles de extracción social diversa, lo que permite observar la variabilidad interna de la brecha digital en contextos institucionales comparables.
 
@@ -66,6 +66,11 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.-
 
+:::{.figure #fig-id-valor}
+![descripción de la imagen](media/figurasdocencia01.png)
+:::
+
+
 ::: {.figure #Fig01}
 ![](media/figurasdocencia01.png)
 
@@ -83,7 +88,7 @@ Otro hallazgo relevante fue la relación entre el tipo de dispositivo y las prá
 ::: {.discussion}
 ## Discusión
 
-Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk (2020) para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
+Los resultados de este estudio confirman la pertinencia del modelo multidimensional de van Dijk [-@2563-VANDIJK2020] para analizar la desigualdad digital en contextos educativos latinoamericanos. La brecha entre los quintiles extremos de ingreso no se limita a la conectividad ---que, aun siendo desigual, ha mejorado significativamente--- sino que se extiende a las condiciones materiales del acceso, las habilidades digitales y, en última instancia, los resultados académicos.
 
 El efecto mediador de las habilidades digitales sobre la relación entre acceso material y rendimiento coincide con lo reportado por Hargittai (2002) en contextos del norte global y sugiere que las políticas de inclusión digital que se limitan a la provisión de dispositivos y conectividad resultan necesarias pero insuficientes. Sin intervenciones específicas orientadas al desarrollo de competencias digitales ---no solo instrumentales sino también informacionales y estratégicas---, el acceso material no se traduce automáticamente en mejores oportunidades educativas.
 
@@ -97,7 +102,33 @@ Las implicancias para la política universitaria son claras: las estrategias de 
 
 :::
 
+Formato 1: cita básica — normal
 
+La transformación digital impacta en múltiples dimensiones organizacionales [@CASADO-GONZALEZ-2017]. Este formato ya funcionaba antes del fix y sirve como control.
+Formato 2: supresión de autor [-@key]
+
+Como señala Salas [-@SALAS-2018], la transformación digital no debe confundirse con la simple digitalización de procesos. Lafonte [-@LAFONTE-2020] aborda esta distinción en el contexto logístico argentino.
+Formato 3: cita con localizador de página
+
+El fenómeno ha sido estudiado en profundidad [@FITZGERALD-2013, p. 5]. También se han analizado las competencias necesarias [@FONSECA-2020, pp. 55-60].
+Formato 4: supresión de autor con localizador [-@key, p. N]
+
+Mahmood [-@MAHMOOD-2019, p. 235] clasifica los desafíos en tres categorías. Suárez Kimura [-@SUAREZ-KIMURA-2007, pp. 225-230] analiza el impacto en la actividad contable.
+Formato 5: prefijo textual [ver @key]
+
+Para un análisis detallado del contexto regional [ver @DGESTA-SALTA-2019]. Este formato requiere que el parser encuentre el @ dentro del bloque aunque no sea el primer carácter.
+Formato 6: múltiples citas en un bloque
+
+Diversos autores han abordado la cuestión desde perspectivas complementarias [@CASADO-GONZALEZ-2017; @FITZGERALD-2013]. Este formato ya funcionaba antes del fix.
+Formato 7: múltiples con supresión parcial
+
+Fitzgerald et al. y Fonseca [@FITZGERALD-2013; -@FONSECA-2020] coinciden en la importancia de las competencias digitales. El segundo autor ya fue mencionado en el párrafo anterior.
+Formato 8: prefijo textual con múltiples citas
+
+Las estadísticas provinciales disponibles [ver @DGESTA-SALTA-2019; @MAHMOOD-2019] ofrecen un marco comparativo útil.
+Formato 9: combinaciones mixtas
+
+La literatura reciente [@CASADO-GONZALEZ-2017; @FITZGERALD-2013; -@FONSECA-2020] muestra convergencia en los hallazgos principales. Suárez Kimura [-@SUAREZ-KIMURA-2007, p. 228] anticipa varios de estos resultados desde el campo contable.
 
 
 

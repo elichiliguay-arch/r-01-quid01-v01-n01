@@ -47,6 +47,10 @@
          <issue>01</issue>
          <permissions>
             <copyright-year>2026</copyright-year>
+            <license license-type="open-access"
+                     xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode">
+               <license-p>CC BY 4.0</license-p>
+            </license>
          </permissions>
          <abstract xml:lang="es">
             <p>La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.</p>
