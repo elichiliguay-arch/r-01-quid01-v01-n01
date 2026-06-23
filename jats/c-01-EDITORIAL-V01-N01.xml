@@ -12,11 +12,12 @@
          </journal-title-group>
          <issn pub-type="epub">2250-4060</issn>
          <publisher>
-            <publisher-name>Universidad de Buenos Aires</publisher-name>
+            <publisher-name>Quid01</publisher-name>
             <publisher-loc>Ciudad Autónoma de Buenos Aires, Argentina</publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
+         <article-id pub-id-type="doi">10.25100/hye.v11i44.1198</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
                <subject>editorial</subject>
@@ -40,11 +41,28 @@
             </contrib>
          </contrib-group>
          <pub-date pub-type="epub-ppub">
-            <month>01</month>
+            <month>07</month>
             <year>2026</year>
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
+         <history>
+            <date date-type="received">
+               <day>04</day>
+               <month>05</month>
+               <year>2026</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>22</day>
+               <month>05</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>11</day>
+               <month>05</month>
+               <year>2026</year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
@@ -64,7 +82,7 @@
             <kwd>políticas públicas</kwd>
          </kwd-group>
          <kwd-group xml:lang="en" kwd-group-type="author-generated">
-            <kwd>igital divide</kwd>
+            <kwd>digital divide</kwd>
             <kwd>digitalization</kwd>
             <kwd>public policy</kwd>
          </kwd-group>

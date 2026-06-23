@@ -7,18 +7,19 @@
     </journal-title-group>
     <issn pub-type="epub">2250-4060</issn>
     <publisher>
-      <publisher-name>Universidad de Buenos Aires</publisher-name>
+      <publisher-name>Quid01</publisher-name>
       <publisher-loc>Ciudad Autónoma de Buenos Aires, Argentina</publisher-loc>
     </publisher>
   </journal-meta>
   <article-meta>
+    <article-id pub-id-type="doi">10.71296/raap.247</article-id>
     <article-categories>
       <subj-group subj-group-type="heading">
         <subject>review-article</subject>
       </subj-group>
     </article-categories>
     <title-group>
-      <article-title>Reseña bibliogràfica</article-title>
+      <article-title>Reseña bibliográfica</article-title>
     </title-group>
     <contrib-group>
       <contrib contrib-type="author" id="a3">
@@ -42,6 +43,9 @@
     <issue>01</issue>
     <permissions>
       <copyright-year>2026</copyright-year>
+      <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode">
+        <license-p>CC BY 4.0</license-p>
+      </license>
     </permissions>
     <custom-meta-group>
       <custom-meta>
