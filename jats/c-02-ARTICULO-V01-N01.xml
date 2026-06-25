@@ -49,6 +49,18 @@
          </pub-date>
          <volume>01</volume>
          <issue>01</issue>
+         <history>
+            <date date-type="received">
+               <day>04</day>
+               <month>05</month>
+               <year>2026</year>
+            </date>
+            <date date-type="accepted">
+               <day>30</day>
+               <month>05</month>
+               <year>2026</year>
+            </date>
+         </history>
          <permissions>
             <copyright-year>2026</copyright-year>
             <license license-type="open-access"
@@ -95,7 +107,9 @@
       </sec>
       <sec id="sec-2">
          <title>De la brecha de acceso a la desigualdad digital</title>
-         <p>La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai (2002) introdujo el concepto de “brecha digital de segundo nivel” para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.</p>
+         <p>La noción de “brecha digital” surgió en los años noventa asociada a la preocupación por las disparidades en el acceso a computadoras e Internet entre distintos segmentos de la población. En su formulación más temprana, el problema se concebía en términos binarios: conectados y no conectados. Sin embargo, Hargittai<xref ref-type="bibr"
+                  rid="bib-2565-HARGITTAI2002"
+                  specific-use="suppress||">2565-HARGITTAI2002</xref> introdujo el concepto de “brecha digital de segundo nivel” para dar cuenta de las diferencias en habilidades y patrones de uso entre quienes ya tenían acceso a la red. Esta distinción abrió un campo de investigación que desplazó el foco desde la infraestructura hacia las prácticas.</p>
          <p>Warschauer <xref ref-type="bibr"
                   rid="bib-2562-WARSCHAUER2004"
                   specific-use="suppress||">2562-WARSCHAUER2004</xref> profundizó esta línea al proponer un enfoque de inclusión social que integraba recursos físicos, digitales, humanos e institucionales. Desde esta perspectiva, la tecnología no constituye una variable independiente cuyo efecto pueda aislarse, sino que se inscribe en tramas de relaciones sociales que condicionan tanto su apropiación como sus resultados.</p>
@@ -115,7 +129,9 @@
          <p>Se diseñó un estudio de métodos mixtos con un componente cuantitativo principal y uno cualitativo complementario. La muestra cuantitativa incluyó 1.247 estudiantes de grado: 623 de la Facultad de Ciencias Sociales de la UBA y 624 de la Facultad de Ciencias Políticas y Sociales de la UNAM, seleccionados mediante muestreo estratificado por carrera y año de cursada durante el segundo semestre de 2022.</p>
          <p>Se aplicó un cuestionario estructurado que relevó cuatro dimensiones del acceso digital, operacionalizadas a partir del modelo de van Dijk <xref ref-type="bibr"
                   rid="bib-2563-VANDIJK2020"
-                  specific-use="suppress||">2563-VANDIJK2020</xref>: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, 2019, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
+                  specific-use="suppress||">2563-VANDIJK2020</xref>: acceso motivacional (escala de autoeficacia digital, 8 ítems, α = 0,87), acceso material (tipo de dispositivo principal, calidad de conexión, espacio de estudio), habilidades digitales (escala adaptada de van Deursen y van Dijk, <xref ref-type="bibr"
+                  rid="bib-2564-VANDEURSEN2019"
+                  specific-use="suppress||">2564-VANDEURSEN2019</xref>, 12 ítems, α = 0,91) y resultados académicos (promedio ponderado del período 2020-2022, materias aprobadas por semestre). El componente cualitativo consistió en 40 entrevistas semiestructuradas (20 por universidad) con estudiantes que presentaban perfiles contrastantes en las variables de interés.</p>
       </sec>
       <sec id="sec-5">
          <title>Condiciones de acceso material</title>
