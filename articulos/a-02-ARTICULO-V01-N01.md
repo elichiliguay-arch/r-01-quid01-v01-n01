@@ -67,7 +67,7 @@ El análisis de regresión múltiple mostró que las habilidades digitales, medi
 La Figura 1 presenta el modelo de mediación estimado con las cargas estandarizadas.-
 
 ::: {.figure #Fig01}
-![](media/figurasdocencia01.png)
+![imagen](media/figurasdocencia01.png)
 
 **Figura 1.** Modelo de mediación entre acceso material, habilidades digitales y rendimiento académico. Coeficientes estandarizados; \*p \< 0,05; \*\*p \< 0,01; \*\*\*p \< 0,001.
 :::
