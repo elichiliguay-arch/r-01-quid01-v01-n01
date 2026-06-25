@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Quid01</publisher>
+      <journalTitle>Revista Latinoamericana de nuevas ideas</journalTitle>
+      <eissn>2250-4060</eissn>
+      <publicationDate>2026-07</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <doi>10.25100/hye.v11i44.1198</doi>
+      <documentType>editorial</documentType>
+      <title language="spa">Las deudas pendientes de la digitalización en América Latina</title>
+      <authors>
+         <author>
+            <name>Petruza, Juan Carlos</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0000-0001-6592-8510</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Universidad Nacional de La Matanza</affiliationName>
+      </affiliationsList>
+      <abstract language="spa">La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.</abstract>
+      <fullTextUrl format="text/html">https://earth.google.com/web/?hl=es</fullTextUrl>
+      <keywords language="spa">
+         <keyword>brecha digital</keyword>
+         <keyword>digitalización</keyword>
+         <keyword>políticas públicas</keyword>
+      </keywords>
+   </record>
+</records>

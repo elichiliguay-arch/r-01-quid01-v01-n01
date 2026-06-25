@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ARCHIVO GENERADO AUTOMÁTICAMENTE POR GBPUBLISHER -->
+<!-- Validar contra: ~/.gbpublisher/schemas/doajArticles.xsd -->
+<records>
+   <record>
+      <language>spa</language>
+      <publisher>Quid01</publisher>
+      <journalTitle>Revista Latinoamericana de nuevas ideas</journalTitle>
+      <eissn>2250-4060</eissn>
+      <publicationDate>2026-01</publicationDate>
+      <volume>01</volume>
+      <issue>01</issue>
+      <doi>10.71296/raap.247</doi>
+      <documentType>review</documentType>
+      <title language="spa">Reseña bibliográfica</title>
+      <authors>
+         <author>
+            <name>Forlan, Nicolas</name>
+            <affiliationId>1</affiliationId>
+            <orcid_id>https://orcid.org/0000-0002-3890-4967</orcid_id>
+         </author>
+      </authors>
+      <affiliationsList>
+         <affiliationName affiliationId="1">Facultad de Ciencias Sociales, Universidad Nacional de Córdoba.</affiliationName>
+      </affiliationsList>
+      <fullTextUrl format="text/html">https://revistaaragonesa.aragon.es/index.php/raap/article/view/247</fullTextUrl>
+   </record>
+</records>

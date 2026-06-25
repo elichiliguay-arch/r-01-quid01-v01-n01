@@ -1,0 +1,36 @@
+{
+  "bibjson": {
+    "title": "Las deudas pendientes de la digitalización en América Latina",
+    "abstract": "La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.",
+    "year": "2026",
+    "month": "julio",
+    "keywords": [
+      "brecha digital; digitalización; políticas públicas"
+    ],
+    "author": [
+      {
+        "name": "Petruza, Juan Carlos",
+        "orcid_id": "https://orcid.org/0000-0001-6592-8510"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2250-4060"},
+      {"type": "doi", "id": "10.25100/hye.v11i44.1198"}
+    ],
+    "journal": {
+      "title": "Revista Latinoamericana de nuevas ideas",
+      "publisher": "Quid01",
+      "volume": "01",
+      "number": "01",
+      "start_page": "1",
+      "end_page": "2"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://earth.google.com/web/?hl=es",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}

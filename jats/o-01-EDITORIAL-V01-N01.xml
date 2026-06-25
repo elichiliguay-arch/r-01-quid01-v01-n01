@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch xmlns="http://www.crossref.org/schema/5.3.1"
+           xmlns:fr="http://www.crossref.org/fundref.xsd"
+           xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+           xmlns:mml="http://www.w3.org/1998/Math/MathML"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 https://www.crossref.org/schemas/crossref5.3.1.xsd"
+           version="5.3.1">
+   <head>
+      <doi_batch_id>gbpublisher-01-EDITORIAL-V01-N01-20260625190112</doi_batch_id>
+      <timestamp>20260625190112</timestamp>
+      <depositor>
+         <depositor_name>Quid01</depositor_name>
+         <email_address>latinrev@com</email_address>
+      </depositor>
+      <registrant>Universidad de Buenos Aires</registrant>
+   </head>
+   <body>
+      <journal>
+         <journal_metadata language="es" reference_distribution_opts="any">
+            <full_title>Revista Latinoamericana de nuevas ideas</full_title>
+            <issn media_type="electronic">2250-4060</issn>
+         </journal_metadata>
+         <journal_issue>
+            <publication_date media_type="online">
+               <month>07</month>
+               <year>2026</year>
+            </publication_date>
+            <journal_volume>
+               <volume>01</volume>
+            </journal_volume>
+            <issue>01</issue>
+         </journal_issue>
+         <journal_article language="es"
+                          publication_type="full_text"
+                          reference_distribution_opts="any">
+            <titles>
+               <title>Las deudas pendientes de la digitalización en América Latina</title>
+            </titles>
+            <contributors>
+               <person_name sequence="first" contributor_role="author">
+                  <given_name>Juan Carlos</given_name>
+                  <surname>Petruza</surname>
+                  <ORCID authenticated="true">https://orcid.org/0000-0001-6592-8510</ORCID>
+               </person_name>
+            </contributors>
+            <jats:abstract>
+               <jats:p xml:lang="es">La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.</jats:p>
+            </jats:abstract>
+            <jats:abstract>
+               <jats:p xml:lang="en">The COVID-19 pandemic accelerated digitalization across Latin America while exposing persistent inequalities in access to and use of digital technologies. Despite improvements in connectivity, large segments of the population continue to face barriers related to access quality, digital skills, and socioeconomic conditions. This issue brings together contributions that examine these challenges and emphasize the need for public policies aimed at fostering a more inclusive and equitable digital transformation.</jats:p>
+            </jats:abstract>
+            <publication_date media_type="online">
+               <month>07</month>
+               <year>2026</year>
+            </publication_date>
+            <program xmlns="http://www.crossref.org/AccessIndicators.xsd">
+               <free_to_read/>
+               <license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/legalcode</license_ref>
+            </program>
+            <doi_data>
+               <doi>10.25100/hye.v11i44.1198</doi>
+               <resource content_version="vor" mime_type="text/html">https://earth.google.com/web/?hl=es</resource>
+            </doi_data>
+         </journal_article>
+      </journal>
+   </body>
+</doi_batch>

@@ -1,0 +1,31 @@
+{
+  "bibjson": {
+    "title": "Reseña bibliográfica",
+    "year": "2026",
+    "author": [
+      {
+        "name": "Forlan, Nicolas",
+        "orcid_id": "https://orcid.org/0000-0002-3890-4967"
+      }
+    ],
+    "identifier": [
+      {"type": "eissn", "id": "2250-4060"},
+      {"type": "doi", "id": "10.71296/raap.247"}
+    ],
+    "journal": {
+      "title": "Revista Latinoamericana de nuevas ideas",
+      "publisher": "Quid01",
+      "volume": "01",
+      "number": "01",
+      "start_page": "1",
+      "end_page": "3"
+    },
+    "link": [
+      {
+        "type": "fulltext",
+        "url": "https://revistaaragonesa.aragon.es/index.php/raap/article/view/247",
+        "content_type": "text/html"
+      }
+    ]
+  }
+}
