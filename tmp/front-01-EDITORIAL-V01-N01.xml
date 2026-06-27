@@ -36,11 +36,14 @@
       </contrib>
     </contrib-group>
     <pub-date pub-type="epub-ppub">
-      <month>07</month>
       <year>2026</year>
+      <month>06</month>
+      <day>22</day>
     </pub-date>
     <volume>01</volume>
     <issue>01</issue>
+    <fpage>1</fpage>
+    <lpage>2</lpage>
     <history>
       <date date-type="received">
         <day>04</day>
@@ -55,6 +58,11 @@
       <date date-type="accepted">
         <day>11</day>
         <month>05</month>
+        <year>2026</year>
+      </date>
+      <date date-type="pub">
+        <day>22</day>
+        <month>06</month>
         <year>2026</year>
       </date>
     </history>

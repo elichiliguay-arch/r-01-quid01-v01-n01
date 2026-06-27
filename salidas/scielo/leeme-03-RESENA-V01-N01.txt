@@ -1,6 +1,6 @@
 PAQUETE SCIELO — construido con gbpublisher
 ============================================================
-Generado: 2026-06-25 19:03:27
+Generado: 2026-06-26 21:49:06
 
 DATOS DEL ARTÍCULO
 ------------------------------------------------------------
@@ -26,7 +26,7 @@ CONTENIDO DEL ZIP
 VALIDACIÓN PACKTOOLS STYLECHECKER
 ------------------------------------------------------------
   Estado:       NO VÁLIDO
-  DTD errors:   0
+  DTD errors:   presentes
   Style errors: presentes
 
 OBSERVACIONES

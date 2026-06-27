@@ -9,100 +9,55 @@
          xml:lang="es">
    <front>
       <journal-meta>
-         <journal-id journal-id-type="publisher-id">
-    
-    2250-4060
-   
-   </journal-id>
+         <journal-id journal-id-type="publisher-id">2250-4060</journal-id>
          <journal-id journal-id-type="nlm-ta">Holamundo</journal-id>
          <journal-title-group>
-            <journal-title>
-     
-     Revista Latinoamericana de nuevas ideas
-    
-    </journal-title>
+            <journal-title>Revista Latinoamericana de nuevas ideas</journal-title>
             <abbrev-journal-title abbrev-type="publisher">Holamundo</abbrev-journal-title>
          </journal-title-group>
-         <issn pub-type="epub">
-    
-    2250-4060
-   
-   </issn>
+         <issn pub-type="epub">2250-4060</issn>
          <publisher>
-            <publisher-name>
-     
-     Quid01
-    
-    </publisher-name>
-            <publisher-loc>
-     
-     Ciudad Autónoma de Buenos Aires, Argentina
-    
-    </publisher-loc>
+            <publisher-name>Quid01</publisher-name>
+            <publisher-loc>Ciudad Autónoma de Buenos Aires, Argentina</publisher-loc>
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">10.25100/hye.v11i44.1198</article-id>
-         <article-id pub-id-type="doi">
-    
-    10.25100/hye.v11i44.1198
-   
-   </article-id>
+         <article-id pub-id-type="publisher-id">2250-4060-Holamundo-01-01-00001</article-id>
+         <article-id pub-id-type="doi">10.25100/hye.v11i44.1198</article-id>
          <article-categories>
             <subj-group subj-group-type="heading">
-               <subject>
-      
-      editorial
-     
-     </subject>
+               <subject>editorial</subject>
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>
-     
-     Las deudas pendientes de la digitalización en América Latina
-    
-    </article-title>
+            <article-title>Las deudas pendientes de la digitalización en América Latina</article-title>
          </title-group>
          <contrib-group>
             <contrib contrib-type="author" id="a1">
                <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6592-8510</contrib-id>
-               <name>
-                  <surname>
-       
-       Petruza
-      
-      </surname>
-                  <given-names>
-       
-       Juan Carlos
-      
-      </given-names>
+               <name name-style="western">
+                  <surname>Petruza</surname>
+                  <given-names>Juan Carlos</given-names>
                </name>
                <aff>
                   <institution content-type="orgname">Universidad Nacional de La Matanza</institution>
-                  <country>
-       
-       Argentina
-      
-      </country>
+                  <country>Argentina</country>
                </aff>
             </contrib>
          </contrib-group>
          <pub-date date-type="collection" publication-format="electronic">
-            <month>07</month>
+            <month>06</month>
             <year>2026</year>
          </pub-date>
-         <volume>
-    
-    01
-   
-   </volume>
-         <issue>
-    
-    01
-   
-   </issue>
+         <pub-date date-type="pub" publication-format="electronic">
+            <day>22</day>
+            <month>06</month>
+            <year>2026</year>
+         </pub-date>
+         <volume>01</volume>
+         <issue>01</issue>
+         <fpage>1</fpage>
+         <lpage>2</lpage>
          <history>
             <date date-type="received">
                <day>04</day>
@@ -119,110 +74,51 @@
                <month>05</month>
                <year>2026</year>
             </date>
+            <date date-type="pub">
+               <day>22</day>
+               <month>06</month>
+               <year>2026</year>
+            </date>
          </history>
          <permissions>
-            <copyright-year>
-     
-     2026
-    
-    </copyright-year>
+            <copyright-year>2026</copyright-year>
             <license license-type="open-access"
                      xlink:href="https://creativecommons.org/licenses/by/4.0/legalcode"
                      xml:lang="es">
-               <license-p>
-      
-      CC BY 4.0
-     
-     </license-p>
+               <license-p>CC BY 4.0</license-p>
             </license>
          </permissions>
          <self-uri xlink:href="https://earth.google.com/web/?hl=es"/>
          <abstract>
-            <p>
-     
-     La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.
-    
-    </p>
+            <p>La pandemia aceleró la digitalización en América Latina, pero también expuso las persistentes desigualdades en el acceso, uso y aprovechamiento de las tecnologías digitales. A pesar de los avances en conectividad, amplios sectores de la población continúan enfrentando limitaciones vinculadas a la calidad del acceso, las competencias digitales y las condiciones socioeconómicas. Este número reúne trabajos que analizan estos desafíos y destacan la necesidad de políticas públicas orientadas a promover una transformación digital más inclusiva y equitativa.</p>
          </abstract>
          <trans-abstract xml:lang="en">
-            <p>
-     
-     The COVID-19 pandemic accelerated digitalization across Latin America while exposing persistent inequalities in access to and use of digital technologies. Despite improvements in connectivity, large segments of the population continue to face barriers related to access quality, digital skills, and socioeconomic conditions. This issue brings together contributions that examine these challenges and emphasize the need for public policies aimed at fostering a more inclusive and equitable digital transformation.
-    
-    </p>
+            <p>The COVID-19 pandemic accelerated digitalization across Latin America while exposing persistent inequalities in access to and use of digital technologies. Despite improvements in connectivity, large segments of the population continue to face barriers related to access quality, digital skills, and socioeconomic conditions. This issue brings together contributions that examine these challenges and emphasize the need for public policies aimed at fostering a more inclusive and equitable digital transformation.</p>
          </trans-abstract>
          <kwd-group xml:lang="es" kwd-group-type="author-generated">
-            <kwd>
-     
-     brecha digital
-    
-    </kwd>
-            <kwd>
-     
-     digitalización
-    
-    </kwd>
-            <kwd>
-     
-     políticas públicas
-    
-    </kwd>
+            <kwd>brecha digital</kwd>
+            <kwd>digitalización</kwd>
+            <kwd>políticas públicas</kwd>
          </kwd-group>
          <kwd-group xml:lang="en" kwd-group-type="author-generated">
-            <kwd>
-     
-     digital divide
-    
-    </kwd>
-            <kwd>
-     
-     digitalization
-    
-    </kwd>
-            <kwd>
-     
-     public policy
-    
-    </kwd>
+            <kwd>digital divide</kwd>
+            <kwd>digitalization</kwd>
+            <kwd>public policy</kwd>
          </kwd-group>
       </article-meta>
    </front>
    <body>
-      <p>
-   
-   La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.
-  
-  </p>
-      <p>
-   
-   América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.
-  
-  </p>
-      <p>
-   
-   Tres años después del momento más agudo de la crisis sanitaria, el balance resulta ambivalente. Por un lado, se registró una expansión significativa de la conectividad: varios países de la región superaron tasas de penetración de Internet que parecían lejanas a comienzos de 2020. Por otro, las desigualdades de uso —lo que la literatura especializada denomina “brecha digital de segundo nivel”— no solo persistieron sino que, en algunos casos, se profundizaron. Los sectores de menores ingresos accedieron mayoritariamente a través de teléfonos móviles con planes de datos limitados, lo que restringía severamente sus posibilidades de participar en actividades educativas, laborales o de ejercicio ciudadano que demandan conexiones estables y pantallas de mayor tamaño.
-   
-   <fn>
-            <p>
-     
-     Según estimaciones de la CEPAL, en 2022 el costo del servicio de
+      <p>La pandemia de COVID-19 funcionó como un acelerador involuntario de procesos que llevaban años en gestación. En cuestión de semanas, sistemas educativos enteros migraron a plataformas virtuales, trámites administrativos que exigían presencialidad se trasladaron a portales web y la telemedicina dejó de ser una promesa para convertirse en una necesidad imperiosa. Sin embargo, esa aceleración no hizo más que volver más visibles las fracturas que ya existían en el tejido social de la región.</p>
+      <p>América Latina llegó a la pandemia con una infraestructura digital profundamente desigual. Mientras las capitales y las grandes áreas metropolitanas disponían de conexiones de banda ancha razonablemente estables, vastas zonas rurales e incluso periferias urbanas carecían de conectividad básica. La brecha no era solo de acceso físico: se manifestaba también en las competencias digitales de la población, en la disponibilidad de dispositivos adecuados y en la capacidad institucional para sostener servicios en línea de manera continua y segura.</p>
+      <p>Tres años después del momento más agudo de la crisis sanitaria, el balance resulta ambivalente. Por un lado, se registró una expansión significativa de la conectividad: varios países de la región superaron tasas de penetración de Internet que parecían lejanas a comienzos de 2020. Por otro, las desigualdades de uso —lo que la literatura especializada denomina “brecha digital de segundo nivel”— no solo persistieron sino que, en algunos casos, se profundizaron. Los sectores de menores ingresos accedieron mayoritariamente a través de teléfonos móviles con planes de datos limitados, lo que restringía severamente sus posibilidades de participar en actividades educativas, laborales o de ejercicio ciudadano que demandan conexiones estables y pantallas de mayor tamaño.<fn>
+            <p>Según estimaciones de la CEPAL, en 2022 el costo del servicio de
 banda ancha para la población del primer quintil de ingresos
 representaba en promedio el 14% de su ingreso mensual en la región, una
 proporción que vuelve inviable cualquier pretensión de universalidad
-efectiva.
-    
-    </p>
+efectiva.</p>
          </fn>
       </p>
-      <p>
-   
-   El problema, conviene insistir, no es exclusivamente tecnológico. La digitalización que no va acompañada de políticas públicas integrales —que atiendan simultáneamente la conectividad, la formación, el diseño institucional y la producción de contenidos pertinentes— corre el riesgo de reproducir y amplificar las desigualdades preexistentes. En una región donde la matriz de la desigualdad opera simultáneamente por ingreso, género, etnia, territorio y edad, suponer que la mera provisión de infraestructura resuelve el acceso es una simplificación que ningún responsable de política pública debería permitirse.
-  
-  </p>
-      <p>
-   
-   Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete —una vez más— resolver por sí sola las deudas históricas de la región.
-  
-  </p>
+      <p>El problema, conviene insistir, no es exclusivamente tecnológico. La digitalización que no va acompañada de políticas públicas integrales —que atiendan simultáneamente la conectividad, la formación, el diseño institucional y la producción de contenidos pertinentes— corre el riesgo de reproducir y amplificar las desigualdades preexistentes. En una región donde la matriz de la desigualdad opera simultáneamente por ingreso, género, etnia, territorio y edad, suponer que la mera provisión de infraestructura resuelve el acceso es una simplificación que ningún responsable de política pública debería permitirse.</p>
+      <p>Este número de la revista reúne contribuciones que abordan distintas aristas de esta problemática. Los trabajos que aquí se presentan comparten una premisa: la transformación digital de nuestras sociedades no puede analizarse al margen de las condiciones materiales y simbólicas en las que se despliega. Esperamos que su lectura contribuya a enriquecer un debate que, lejos de cerrarse, se vuelve más urgente con cada innovación tecnológica que promete —una vez más— resolver por sí sola las deudas históricas de la región.</p>
    </body>
 </article>
